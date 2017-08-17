@@ -1,2 +1,3 @@
 # ScalaBase
-##Some code for the Scala study.
+
+## Some code for the Scala study.
